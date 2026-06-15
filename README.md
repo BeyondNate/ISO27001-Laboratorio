@@ -25,6 +25,8 @@ sudo adduser empleado
 
 ### Instalación de Ubuntu Server
 ![Instalación](imagen11.jpeg)
+![Usuarios creados](Imagen22.jpeg)
+
 
 ### Creación de usuarios
 ![Usuarios creados](Imagen22.jpeg)
