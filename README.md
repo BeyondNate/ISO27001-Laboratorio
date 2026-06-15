@@ -29,4 +29,4 @@ sudo adduser empleado
 
 
 ### Creación de usuarios
-![Usuarios creados](Imagen22.jpeg)
+![Usuarios creados](imagen33.jpeg)
