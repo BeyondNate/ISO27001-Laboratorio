@@ -19,3 +19,12 @@ Implementar un servidor Ubuntu Server en una máquina virtual y gestionar usuari
 sudo adduser auditor
 sudo adduser administrador
 sudo adduser empleado
+
+```
+## Evidencias
+
+### Instalación de Ubuntu Server
+![Instalación](imagen11.jpeg)
+
+### Creación de usuarios
+![Usuarios creados](Imagen22.jpeg)
